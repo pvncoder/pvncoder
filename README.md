@@ -39,6 +39,6 @@ My journey has led me to the dynamic world of startups, where every day is a new
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovnarruda/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvncoder&theme=chartreuse-dark&card_width=500&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvncoder&theme=chartreuse-dark&border_radius=4&card_width=500)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvncoder&theme=chartreuse-dark&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovnarruda&theme=chartreuse-dark&card_width=500&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrovnarruda&theme=chartreuse-dark&border_radius=4&card_width=500)](https://git.io/streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovnarruda&theme=chartreuse-dark&card_width=500)
